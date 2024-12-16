@@ -1,6 +1,4 @@
-Hier ist eine Anleitung zu **"Copy, Remix, Innovate" im Kontext von DevOps und Softwareentwicklung**, die den Ansatz in drei Phasen unterteilt und mit einer Zusammenfassung abschließt.
-
----
+# Hier ist eine Anleitung zu **"Copy, Remix, Innovate" im Kontext von DevOps und Softwareentwicklung**, die den Ansatz in drei Phasen unterteilt und mit einer Zusammenfassung abschließt.
 
 ## **1. Copy: Bestehendes adaptieren**
 ### Ziel:
