@@ -1,4 +1,4 @@
-# Wie man Dinge erreicht, wenn man weder besonders klug noch talentiert ist
+# Wie man Dinge erreicht, wenn man weder besonders klug noch talentiert ist(ironie)
 Dieser Blogbeitrag richtet sich an Menschen, die wichtige Arbeit leisten oder sinnvolle Beiträge leisten wollen, aber das Gefühl haben, nicht besonders klug oder talentiert zu sein.
 
 1. **Sei kühn.**  
